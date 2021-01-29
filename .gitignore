@@ -73,3 +73,7 @@
 
 # Google process
 .gitbugtraq
+
+#Normal Normcore
+Assets/Normal/Resources/NormcoreAppSettings.asset
+Assets/Normal/Resources/NormcoreAppSettings.asset.meta

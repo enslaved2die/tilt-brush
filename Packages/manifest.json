@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.normalvr.normcore": "2.0.3",
     "com.unity.editorcoroutines": "0.0.2-preview.1",
     "com.unity.package-manager-ui": "2.0.13",
     "com.unity.performance.profile-analyzer": "0.6.0-preview.1",
@@ -36,5 +37,15 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "Normal",
+      "url": "https://normcore-registry.normcore.io",
+      "scopes": [
+        "com.normalvr",
+        "io.normcore"
+      ]
+    }
+  ]
 }
